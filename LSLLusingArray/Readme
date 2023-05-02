@@ -1,4 +1,4 @@
-A linera single linked list is implemented using an array of nodes, and links are created using 'next' data member of Node where index of next node in list is stored.
+A linear single linked list is implemented using an array of nodes, and links are created using 'next' data member of Node where index of next node in list is stored.
 
 The SLhead (System List Head) has index of the next free index in array.
 The ULhead (User List Head) has index where the list starts.
